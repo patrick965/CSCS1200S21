@@ -1,7 +1,3 @@
-word/phrase: definition
-computer, digital, analog, electricity, mechanics, hydraulics, first hydraulic computer, first mechanical computer, first electronic computer, logic, inference, semiotics, Boolean, binary, 
-black box, truth table, electrical circuit, voltage, electrical current, electrical resistance, semiconductor, diode, transistor
-
 Computer: A programmable machine that executes given instructions
 
 Digital: Information stored, often using the binary system, that can be read by a machine
@@ -32,8 +28,21 @@ Binary: Of or relating to the base two number system, where each decimal place c
 
 Black Box: A complicated and mysterious object/device that takes input from a user and turns it into output, usually without the user knowing how
 
+Truth Table: ...
 
+Electrical Circut: A path for electricity to flow
 
+Voltage: The difference in the potential for electricity between two points
+
+Electrical Current: Stream of charged particles moving through an electrical conductor
+
+Electrical Resistance: The measure of the opposition to the flow of electrical current
+
+Semiconductor: A material that has an electrical conductivity that falls between a conductor and an insulator
+
+Diode: An electrical component that conducts electrical current in one direction, with low resistance on one of the two ends and high resistance on the other end
+
+Transistor: A semiconductor used to switch or amplify electronic current
 
 Sources:
 https://techterms.com/definition/computer
@@ -51,3 +60,10 @@ https://en.wikipedia.org/wiki/Semiotics
 https://en.wikipedia.org/wiki/Boolean_data_type
 https://www.dictionary.com/browse/binary
 https://www.merriam-webster.com/dictionary/black%20box
+https://www.vocabulary.com/dictionary/electrical%20circuit
+https://en.wikipedia.org/wiki/Voltage
+https://en.wikipedia.org/wiki/Electric_current
+https://en.wikipedia.org/wiki/Electrical_resistance_and_conductance
+https://en.wikipedia.org/wiki/Semiconductor
+https://en.wikipedia.org/wiki/Diode
+https://en.wikipedia.org/wiki/Transistor
