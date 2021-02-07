@@ -1,1 +1,53 @@
 word/phrase: definition
+computer, digital, analog, electricity, mechanics, hydraulics, first hydraulic computer, first mechanical computer, first electronic computer, logic, inference, semiotics, Boolean, binary, 
+black box, truth table, electrical circuit, voltage, electrical current, electrical resistance, semiconductor, diode, transistor
+
+Computer: A programmable machine that executes given instructions
+
+Digital: Information stored, often using the binary system, that can be read by a machine
+
+Analog: Continuous transmission of a signal, read by human senses
+
+Electricity: Phenomena associated with the motion of charged particles
+
+Mechanics: Science of machinery 
+
+Hydraulics: Science of liquid in motion
+
+First Hydraulic Computer (MONIAC): The Monetary National Income Analogue Computer was an analog computer that used fluid logic to model an economy
+
+First Mechanical Computer (Pascal's calculator): While it's hard to pinpoint the first mechanical computer, Pascal's calculator is a mechanical calculator that can add or subtract two numbers created in the 17th century 
+
+First electronic computer (ENIAC): Electronic Numerical Integrator and Computer, was the first programmable digital computer able to solve numerical problems through reprogramming
+
+Logic: Science of the principles of reasoning
+
+Inference: Something that is derived from reasoning
+
+Semiotics: Study of signs, where sign is anything that communicates meaning that is not the sign itself
+
+Boolean: Data type that has one of two possible values, usually true or false
+
+Binary: Of or relating to the base two number system, where each decimal place corresponds to a power of 2
+
+Black Box: A complicated and mysterious object/device that takes input from a user and turns it into output, usually without the user knowing how
+
+
+
+
+Sources:
+https://techterms.com/definition/computer
+https://techterms.com/definition/digital
+https://techterms.com/definition/analog
+https://en.wikipedia.org/wiki/Electricity
+https://www.dictionary.com/browse/mechanics
+https://www.merriam-webster.com/dictionary/hydraulics
+https://en.wikipedia.org/wiki/MONIAC
+https://en.wikipedia.org/wiki/Pascal%27s_calculator
+https://en.wikipedia.org/wiki/ENIAC
+https://www.merriam-webster.com/dictionary/logic
+https://www.dictionary.com/browse/inference
+https://en.wikipedia.org/wiki/Semiotics
+https://en.wikipedia.org/wiki/Boolean_data_type
+https://www.dictionary.com/browse/binary
+https://www.merriam-webster.com/dictionary/black%20box
