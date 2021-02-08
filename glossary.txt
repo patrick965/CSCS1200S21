@@ -28,7 +28,7 @@ Binary: Of or relating to the base two number system, where each decimal place c
 
 Black Box: A complicated and mysterious object/device that takes input from a user and turns it into output, usually without the user knowing how
 
-Truth Table: ...
+Truth Table: A table filled with all possible inputs and their corresponding outputs
 
 Electrical Circut: A path for electricity to flow
 
@@ -60,6 +60,7 @@ https://en.wikipedia.org/wiki/Semiotics
 https://en.wikipedia.org/wiki/Boolean_data_type
 https://www.dictionary.com/browse/binary
 https://www.merriam-webster.com/dictionary/black%20box
+CSCS1200 02/08/21 Class
 https://www.vocabulary.com/dictionary/electrical%20circuit
 https://en.wikipedia.org/wiki/Voltage
 https://en.wikipedia.org/wiki/Electric_current
