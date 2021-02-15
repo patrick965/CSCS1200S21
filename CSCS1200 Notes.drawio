@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T18:31:47.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="h4LOhnFszDRUCF99HdaO" version="14.3.2" type="github">
-  <diagram id="0xffNsh3KAgAyxDNN7ll" name="Page-1">
-    <mxGraphModel dx="981" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-02-15T20:55:26.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="wpcdrIQ6VkVdIgMUUfGw" version="14.3.2" type="github" pages="2">
+  <diagram id="0xffNsh3KAgAyxDNN7ll" name="Truth Tables and Black Boxes">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -397,6 +397,17 @@
         <mxCell id="PIKNtMhIsa6N9ETtbV-N-73" value="&lt;i&gt;*Inclusive OR&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="1000" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="M_BjHdo4-QJR4TIoAcpF-2" value="&lt;h1&gt;Side Notes:&lt;/h1&gt;&lt;p&gt;- Preferred value is often taken for granted but matters fundamentally&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1230" width="480" height="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nT3YKqnV5o8iru4GjnYr" name="Page-2">
+    <mxGraphModel dx="981" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="GqssG-Dwxg0sr4OnRAH2-0" />
+        <mxCell id="GqssG-Dwxg0sr4OnRAH2-1" parent="GqssG-Dwxg0sr4OnRAH2-0" />
       </root>
     </mxGraphModel>
   </diagram>
